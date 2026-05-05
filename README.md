@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### 电子邮箱 / E-Mail
 
-[![QQ](https://img.shields.io/badge/muxmus-%40qq.com-4169e1?style=flat-square)](mailto:muxmus@qq.com)
-[![Foxmail](https://img.shields.io/badge/muxmus-%40foxmail.com-cd5c5c?style=flat-square)](mailto:muxmus@foxmail.com)
+[![QQ](https://img.shields.io/badge/muxmus-@qq.com-4169e1?style=flat-square)](mailto:muxmus@qq.com)
+[![Foxmail](https://img.shields.io/badge/muxmus-@foxmail.com-cd5c5c?style=flat-square)](mailto:muxmus@foxmail.com)
 
-[![Gmail](https://img.shields.io/badge/dzb1211-%40gmail.com-fabd03?style=flat-square)](mailto:dzb1211@gmail.com)
-[![Zoho](https://img.shields.io/badge/i-%40muxmus.com-228b22?style=flat-square)](mailto:i@muxmus.com) 
+[![Gmail](https://img.shields.io/badge/1muxmus-@gmail.com-fabd03?style=flat-square)](mailto:dzb1211@gmail.com)
+[![Zoho](https://img.shields.io/badge/i-@muxmus.com-228b22?style=flat-square)](mailto:i@muxmus.com) 
 
 <br>
 
